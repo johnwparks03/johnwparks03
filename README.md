@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently a third year student at the University of Cincinnati studying computer science. One area I am interested in currently is anythign that involves artificial intelligence. I'm currently reading a book about learning computer vision using Tensorflow. In the future I hope to participate in machine learning projects! 
+
+
 
 <!--
 **johnwparks03/johnwparks03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
